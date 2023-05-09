@@ -1,7 +1,7 @@
 feature-A 
 
-bug-fixB
+bug-fix-B
 
-featureC
+feature-C
 
-featureD
+feature-D
