@@ -1,2 +1,5 @@
-<<<<<<< HEAD
-feature-A bug-fixB
+feature-A 
+
+bug-fixB
+
+featureC
